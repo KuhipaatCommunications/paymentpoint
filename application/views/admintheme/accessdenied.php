@@ -1,0 +1,15 @@
+<aside class="right-side">   
+    <section class="content-header">
+      <h1>
+        Access Denied
+        <small>You are not authorize user to use this</small>
+      </h1>
+    </section>
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <img src="<?php echo $this->config->item('admin_theme_url')?>/images/access.png" alt="Access Denied Image" />
+            </div>
+        </div>
+    </section>
+</aside>

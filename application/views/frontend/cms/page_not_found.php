@@ -1,0 +1,1 @@
+<img src="<?php echo $this->config->item('theme_url'); ?>images/page-not-found.png">
